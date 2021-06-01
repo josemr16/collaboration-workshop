@@ -1,7 +1,30 @@
 .background-image{
     background-image:url(images/hug_dog.jpg);
-    height:120vh;
+    height:82vh;
     margin-left: auto;
     margin-right: auto;
     width: 100%;
 }
+.buttons{
+    background-color: #202020;
+    color: #fff;
+    padding: 0;
+    text-align: center;
+}
+
+.buttParent{
+    display: flex;
+}
+.buttChild{
+    margin: 20px auto;
+}
+.footer-background{
+    background-color: #202020;
+    color: #fff;
+    padding: 60px;
+}
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }

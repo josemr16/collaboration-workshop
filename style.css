@@ -1,0 +1,7 @@
+.background-image{
+    background-image:url(images/hug_dog.jpg);
+    height:120vh;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}

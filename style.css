@@ -1,0 +1,26 @@
+
+
+.form-content {
+	margin: 0px 25%;
+	padding: 5% 0px;
+	max-width: 100%;
+	border:2px solid black;
+	text-align: center;
+
+}
+
+.input-label {
+	text-transform: uppercase;
+	display: block;
+	text-align: center;
+	margin: 5px;
+
+}
+
+.inputs {
+	width: 400px;
+}
+
+
+
+

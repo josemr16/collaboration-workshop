@@ -4,41 +4,43 @@
 <html>
 <head>
 	<title>Contact us</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
 
-	<form>
+	<form class="form-content">
 
-		<label for="Fname">
+		<label class="input-label" for="Fname">
 			First name:
 		</label>
-		<input type="text" name="Fname" required>
-		<label for="Lname">
+		<input  class = "inputs" type="text" name="Fname" required>
+		<label class="input-label" for="Lname">
 			Last Name:
 		</label>
-		<input type="text" name="Lname" required>
-		<label for="Email" >
+		<input class = "inputs" ype="text" name="Lname" required>
+		<label class="input-label" for="Email" >
 			Email:
 		</label>
 
-		<input type="Email" name="email">
-		<label for="Phone">
+		<input class = "inputs" type="Email" name="email">
+		<label class="input-label" for="Phone">
 			Phone number:
 		</label>
-		<input type="number" name="phone" placeholder="10 digits" maxlength="10">
+		<input class = "inputs" type="number" name="phone" placeholder="10 digits" maxlength="10">
 
-		<label for="reason">
+		<label class="input-label" for="reason">
 			Reason:
 		</label>
 
-		<select>
+		<select class = "inputs">
 			<option name="Adoption">Adoption</option>
 			<option name="Donation">Donation</option>
 			<option name="other">Other</option>
-		</select>
+		</select><br>
 
-		<textarea placeholder="Briefly explain"></textarea>
+		<textarea class = "inputs" placeholder="Briefly explain"></textarea><br>
 		<input type="submit" value="send">
+
 
 	</form>
 

@@ -1,11 +1,13 @@
 
 
 .form-content {
-	margin: 0px 25%;
+	margin: 5% 25%;
 	padding: 5% 0px;
 	max-width: 100%;
 	border:2px solid black;
+	border-radius: 10px;
 	text-align: center;
+	background-color: rgba(130, 125, 125,0.2);
 
 }
 
@@ -19,6 +21,16 @@
 
 .inputs {
 	width: 400px;
+	padding: 5px;
+}
+
+.textarea {
+	margin-top: 10px;
+}
+
+.submit-btn {
+	padding: 10px 30px;
+	text-transform: uppercase;
 }
 
 

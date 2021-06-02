@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 
-
-=======
 .background-image{
-    background-image:url(images/hug_dog.jpg);
+    background-image:url(Images/hug_dog.jpg);
     height:82vh;
     margin-left: auto;
     margin-right: auto;
@@ -27,7 +24,7 @@
     color: #fff;
     padding: 60px;
 }
->>>>>>> aboutus
+
 .form-content {
 	margin: 5% 25%;
 	padding: 5% 0px;
@@ -61,14 +58,6 @@
 	text-transform: uppercase;
 }
 
-<<<<<<< HEAD
-/*.img-container {
-	border:2px solid red;
-	display: space-around;
-	justify-content: center;
-	align-items: center;
-
-}*/
 
 
 .home-img {
@@ -81,13 +70,8 @@
 
 }
 
-
-
-
-=======
 body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
   }
->>>>>>> aboutus

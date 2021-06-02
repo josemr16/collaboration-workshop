@@ -1,0 +1,57 @@
+
+
+.form-content {
+	margin: 5% 25%;
+	padding: 5% 0px;
+	max-width: 100%;
+	border:2px solid black;
+	border-radius: 10px;
+	text-align: center;
+	background-color: rgba(130, 125, 125,0.2);
+
+}
+
+.input-label {
+	text-transform: uppercase;
+	display: block;
+	text-align: center;
+	margin: 5px;
+
+}
+
+.inputs {
+	width: 400px;
+	padding: 5px;
+}
+
+.textarea {
+	margin-top: 10px;
+}
+
+.submit-btn {
+	padding: 10px 30px;
+	text-transform: uppercase;
+}
+
+/*.img-container {
+	border:2px solid red;
+	display: space-around;
+	justify-content: center;
+	align-items: center;
+
+}*/
+
+
+.home-img {
+	display: block;
+	margin: 0px auto;
+	border-radius: 10px;
+	width: 60%;
+	height: 40%;
+
+
+}
+
+
+
+

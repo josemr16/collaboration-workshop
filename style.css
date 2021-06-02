@@ -33,6 +33,25 @@
 	text-transform: uppercase;
 }
 
+/*.img-container {
+	border:2px solid red;
+	display: space-around;
+	justify-content: center;
+	align-items: center;
+
+}*/
+
+
+.home-img {
+	display: block;
+	margin: 0px auto;
+	border-radius: 10px;
+	width: 60%;
+	height: 40%;
+
+
+}
+
 
 
 
